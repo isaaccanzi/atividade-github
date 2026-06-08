@@ -12,7 +12,7 @@
 
 <body>
 
-<h1>Título inicial</h1>
+<h1>Nome</h1>
 
 <p>Novo parágrafo</p>
 <p>Isaac Canzi</p>
@@ -24,6 +24,12 @@
     <li>Curso de Excel</li>
     <li>Curso de Inglês</li>
 </ul>
+
+<h2>Experiência Profissional</h2>
+<ul>
+    <li>Ajudante de Escritório - KDU </li>
+</ul>
+
 
 </body>
 
