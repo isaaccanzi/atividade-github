@@ -17,6 +17,14 @@
 <p>Novo parágrafo</p>
 <p>Isaac Canzi</p>
 
+<h2>Cursos e Formações Complementares</h2>
+
+<ul>
+    <li>Curso de Informática Básica</li>
+    <li>Curso de Excel</li>
+    <li>Curso de Inglês</li>
+</ul>
+
 </body>
 
 </html>
